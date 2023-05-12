@@ -1,16 +1,12 @@
-## End to End ML project
+## End To End ML Project
 
-### created a envirnment
-
-``` 
-conda crete -p vene python==3.8
+### created a environment
 ```
-```
-conda activate "your envirment path till venv"
-```
+conda create -p venv python==3.8
 
-### install all necessary libraries
-
+conda activate venv/
+```
+### Install all necessary libraries
 ```
 pip install -r requirements.txt
 ```
